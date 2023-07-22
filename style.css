@@ -1,0 +1,146 @@
+* {
+    font-family: cursive;
+}
+
+.navbar {
+    background-color: #00807f;
+    padding: 15px;
+    font-size: 17px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+
+}
+
+
+.navbar a {
+    margin-left: 10px;
+
+
+}
+
+body {
+    margin: 0;
+}
+.float-right {
+    float:right;
+}
+.btn {
+    padding:5px 10px 5px 10px;
+    border-radius: 5%;
+
+}
+.btn-primary{
+    background-color: #143970;
+    color:black
+}
+.btn-warning {
+    background-color: #701414;
+    color:black
+}
+body {
+    margin:0;
+}
+.mt-1px {
+    margin-top: 1px;
+}
+.row {
+    display:flex;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.col-2 {
+    width: 50%;
+}
+.col-3 {
+    width:33.33%;
+}
+.col-4{
+    width:25%;
+}
+.mt-10px {
+    margin-top: 10px;
+}
+.card {
+    border: 1px solid rgb(255, 0, 255);
+    padding:10px;
+    margin:10px;
+}
+.text-center {
+    text-align: center;
+}
+.img-responsive {
+    width:100%;
+}
+img {
+    width:100%;
+}
+.card  img{
+    height:100px;
+    width:100%;
+    text-align: center;
+    margin:auto;
+}
+.card {
+    text-align: center;
+}
+.card a{
+    color:#701414;
+
+}
+.card p{
+    color:#143970;
+    text-align: justify;
+}
+.text-primary {
+    color:#471470
+}
+.footer {
+    background-color:rgb(102, 6, 6) ;
+    padding:5px;
+}
+.p-5 {
+    padding:5px;
+    background-color:rgb(159, 163, 190);
+}
+Body {  
+    font-family: cursive;  
+    background-color: white;  
+  }  
+  button {   
+         background-color: #188ea8;   
+         width: 100%;  
+          color: rgb(147, 157, 248);   
+          padding: 10px;   
+          margin: 10px 0px;   
+          border: none;   
+          cursor: pointer;   
+           }   
+   form {   
+          border: 1px solid #fad5f7;   
+      }   
+   input[type=text], input[type=password] {   
+          width: 100%;   
+          margin: 8px 0;  
+          padding: 12px 15px;   
+          display: inline-block;   
+          border: 1px solid  rgb(6, 19, 109);   
+          box-sizing: border-box;   
+          }  
+   button:hover {   
+          opacity: 0.7;   
+      }   
+    .cancelbtn {   
+          width: auto;   
+          padding: 10px 18px;  
+          margin: 10px 5px;  
+      }   
+          
+       
+   .container {   
+          padding: 25px;   
+          background-color: rgb(218, 179, 179) ;  
+      }   
+  
